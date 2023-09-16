@@ -1,0 +1,19 @@
+{
+  "name": "fetch_xml_to_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xml2js": "^0.6.2",
+    "xmldom": "^0.6.0"
+  }
+}

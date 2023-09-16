@@ -1,0 +1,370 @@
+<rss version="2.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title><![CDATA[Bib. Pop. Centro Social Cosmopolita Search for 'kw,wrdl: malabrigo']]></title>
+        <link>http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?idx=kw&amp;q=malabrigo&amp;format=rss2</link>
+        <atom:link rel="self" type="application/rss+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?idx=kw&amp;q=malabrigo&amp;sort_by=relevance_asc&amp;format=rss2" />
+        <description> Search results for 'kw,wrdl: malabrigo' at Bib. Pop. Centro Social Cosmopolita</description>
+        <opensearch:totalResults>31</opensearch:totalResults>
+        <opensearch:startIndex>0</opensearch:startIndex>
+        <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Cien años de historia </title>
+            <dc:identifier>ISBN 982(821)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1375</link>
+            <description>
+                <p>By Ruggeroni, Dante.
+                    Malabrigo Municipalidad de Malabrigo 1997
+                    . 288 p.
+
+                    26 cm..
+                    982(821)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=1375">Place
+                        Hold on <i>Cien años de historia</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1375</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Malabrigo y yo </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1488</link>
+            <description>
+                <p>By Clemetín, Julio Argentino.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=1488">Place
+                        Hold on <i>Malabrigo y yo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1488</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Los duendes de la tarde </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1687</link>
+            <description>
+                <p>Malabrigo Taller Literario de la Casa de la Cultura 1995
+                    . 127 p.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=1687">Place
+                        Hold on <i>Los duendes de la tarde</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1687</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Los duendes de la tarde </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1688</link>
+            <description>
+                <p>Malabrigo Taller Literario de la Casa de la Cultura 1995
+                    . 127 p.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=1688">Place
+                        Hold on <i>Los duendes de la tarde</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1688</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Los duendes de la tarde </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1695</link>
+            <description>
+                <p>Malabrigo SL 1995
+                    . 127 p.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=1695">Place
+                        Hold on <i>Los duendes de la tarde</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1695</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Malabrigo y yo </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=4516</link>
+            <description>
+                <p>By Clementín, Julio Argentino.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=4516">Place
+                        Hold on <i>Malabrigo y yo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=4516</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Malabrigo y yo </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=5878</link>
+            <description>
+                <p>By Clementín, Julio Argentino.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=5878">Place
+                        Hold on <i>Malabrigo y yo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=5878</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El Loakal IV </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6374</link>
+            <description>
+                <p>By Gallagher, Edith Gabriela.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=6374">Place
+                        Hold on <i>El Loakal IV</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6374</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El Loakal IV </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6576</link>
+            <description>
+                <p>By Gallagher, Edith Gabriela.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=6576">Place
+                        Hold on <i>El Loakal IV</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6576</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Álbum del recuerdo. Malabrigo ciudad </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6577</link>
+            <description>
+                <p>By Magnago, Rubén Pedro.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=6577">Place
+                        Hold on <i>Álbum del recuerdo. Malabrigo ciudad</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6577</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Antes del silencio... </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6981</link>
+            <description>
+                <p>By Fontana, Delia Aída.
+                    Malabrigo 2005
+                    . 87 p.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=6981">Place
+                        Hold on <i>Antes del silencio...</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6981</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Despertar en versos </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6986</link>
+            <description>
+                <p>Malabrigo 2005
+                    . 65 p.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=6986">Place
+                        Hold on <i>Despertar en versos</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=6986</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Los duendes de la tarde </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=7557</link>
+            <description>
+                <p>Malabrigo Taller Literario de la Casa de la Cultura 1995
+                    . 127 p.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=7557">Place
+                        Hold on <i>Los duendes de la tarde</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=7557</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Cítricos Malabrigo </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=9367</link>
+            <description>
+                <p>. 12 p.</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=9367">Place
+                        Hold on <i>Cítricos Malabrigo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=9367</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Perder la cabeza </title>
+            <dc:identifier>ISBN 9789508602329</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=11240</link>
+            <description>
+                <p>By Rosenzvaig, Marcos.
+                    Buenos Aires Ediciones del IMFC 2010
+                    . 128 p.
+
+                    20 cm..
+                    9789508602329</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=11240">Place
+                        Hold on <i>Perder la cabeza</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=11240</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Despertar en versos </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=12163</link>
+            <description>
+                <p>Malabrigo Municipalidad de Malabrigo
+                    . 94 p.
+
+                    19,5 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=12163">Place
+                        Hold on <i>Despertar en versos</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=12163</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Historias del cuerpo: crónicas de esclavitud sexual </title>
+            <dc:identifier>ISBN 9789873338489</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=13941</link>
+            <description>
+                <p>By Fain, Héctor Adrián.
+                    Posadas el autor 2013
+                    . 175 p.
+
+                    21 cm..
+                    9789873338489</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=13941">Place
+                        Hold on <i>Historias del cuerpo: crónicas de esclavitud sexual</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=13941</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Historia del deporte en Malabrigo </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15129</link>
+            <description>
+                <p>By Centis, Alfredo W..
+                    Malabrigo Publik-Arte 2017
+                    . 57 p.
+                    , Colaborador: Escuela 6113 &quot;Federico Carlos Sigel&quot;
+                    21 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=15129">Place
+                        Hold on <i>Historia del deporte en Malabrigo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15129</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Historia del deporte en Malabrigo </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15130</link>
+            <description>
+                <p>By Centis, Alfredo W..
+                    Malabrigo Publik-Arte 2017
+                    . 57 p.
+                    , Colaborador: Escuela 6113 &quot;Federico Carlos Sigel&quot;
+                    21 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=15130">Place
+                        Hold on <i>Historia del deporte en Malabrigo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15130</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Historia del deporte en Malabrigo </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15131</link>
+            <description>
+                <p>By Centis, Alfredo W..
+                    Malabrigo Publik-Arte 2017
+                    . 57 p.
+                    , Colaborador: Escuela 6113 &quot;Federico Carlos Sigel&quot;
+                    21 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=15131">Place
+                        Hold on <i>Historia del deporte en Malabrigo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15131</guid>
+        </item>
+    </channel>
+</rss>
