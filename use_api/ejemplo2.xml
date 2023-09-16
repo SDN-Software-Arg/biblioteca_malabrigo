@@ -1,0 +1,1087 @@
+<rss version="2.0" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title><![CDATA[Bib. Pop. Centro Social Cosmopolita Search for 'kw,wrdl: argentina']]></title>
+        <link>http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?idx=kw&amp;q=argentina&amp;format=rss2</link>
+        <atom:link rel="self" type="application/rss+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?idx=kw&amp;q=argentina&amp;sort_by=acqdate_dsc&amp;format=rss2" />
+        <description> Search results for 'kw,wrdl: argentina' at Bib. Pop. Centro Social Cosmopolita</description>
+        <opensearch:totalResults>3778</opensearch:totalResults>
+        <opensearch:startIndex>0</opensearch:startIndex>
+        <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Historia Argentina </title>
+            <dc:identifier>ISBN 9875220744</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17925</link>
+            <description>
+                <p>Buenos Aires Visor 2000
+                    . 46 p.
+
+                    20 cm..
+                    9875220744</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17925">Place
+                        Hold on <i>Historia Argentina</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17925</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El negro Blanco </title>
+            <dc:identifier>ISBN 9789875626287 (Obra Completa) | 9789875629479 (v.10)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17912</link>
+            <description>
+                <p>By Trillo, Carlos.
+                    Buenos Aires Ivrea 2008
+                    . 112 p.
+
+                    20 cm..
+                    9789875626287 (Obra Completa) | 9789875629479 (v.10)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17912">Place
+                        Hold on <i>El negro Blanco</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17912</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El negro Blanco </title>
+            <dc:identifier>ISBN 9789875626287 (Obra Completa) | 9789875629349 (v.9)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17911</link>
+            <description>
+                <p>By Trillo, Carlos.
+                    Buenos Aires Ivrea 2008
+                    . 102 p.
+
+                    20 cm..
+                    9789875626287 (Obra Completa) | 9789875629349 (v.9)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17911">Place
+                        Hold on <i>El negro Blanco</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17911</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El negro Blanco </title>
+            <dc:identifier>ISBN 9789875626287 (Obra Completa) | 9789875629202 (v.8)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17910</link>
+            <description>
+                <p>By Trillo, Carlos.
+                    Buenos Aires Ivrea 2008
+                    . 110 p.
+
+                    20 cm..
+                    9789875626287 (Obra Completa) | 9789875629202 (v.8)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17910">Place
+                        Hold on <i>El negro Blanco</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17910</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El negro Blanco </title>
+            <dc:identifier>ISBN 9789875626287 (Obra Completa) | 9789875628724 (v.7)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17909</link>
+            <description>
+                <p>By Trillo, Carlos.
+                    Buenos Aires Ivrea 2008
+                    . 96 p.
+
+                    20 cm..
+                    9789875626287 (Obra Completa) | 9789875628724 (v.7)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17909">Place
+                        Hold on <i>El negro Blanco</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17909</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Miedo </title>
+            <dc:identifier>ISBN 9789508603104</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17913</link>
+            <description>
+                <p>Ciudad Autónoma de Buenos Aires Desde la Gente | IMFC 2019
+                    . 128 p.
+
+                    20 cm..
+                    9789508603104</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17913">Place
+                        Hold on <i>Miedo</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17913</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Sargento Kirk / Ernie Pike </title>
+            <dc:identifier>ISBN 9507828842 (10) (de la colección) | 9789507828843 (13) (de la
+                colección) | 9507828877 (10) (de esta obra) | 9789507828874 (13) (de esta obra)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17914</link>
+            <description>
+                <p>By Oesterheld, H. G..
+                    Buenos Aires AGEA 2006
+                    . 256 p.
+                    , Dos obras innovadoras de la dupla de Oesterheld y el italiano Hugo Pratt. El
+                    western Sargento Kirk y la historieta ambientada en la Segunda Guerra Mundial
+                    Ernie Pike.
+                    21 cm..
+                    9507828842 (10) (de la colección) | 9789507828843 (13) (de la colección) |
+                    9507828877 (10) (de esta obra) | 9789507828874 (13) (de esta obra)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17914">Place
+                        Hold on <i>Sargento Kirk / Ernie Pike</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17914</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Las puertitas del Sr. López </title>
+            <dc:identifier>ISBN 9507828842 (10) (de la colección) | 9789507828843 (13) (de la
+                colección) | 9507828958 (10) (de esta obra) | 9789507828959 (13) (de esta obra)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17915</link>
+            <description>
+                <p>By Trillo, Carlos.
+                    Buenos Aires AGEA 2007
+                    . 242 p.
+
+                    21 cm..
+                    9507828842 (10) (de la colección) | 9789507828843 (13) (de la colección) |
+                    9507828958 (10) (de esta obra) | 9789507828959 (13) (de esta obra)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17915">Place
+                        Hold on <i>Las puertitas del Sr. López</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17915</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Vito Nervio / Misterix </title>
+            <dc:identifier>ISBN 950782359X (de la colección) | 9507823832 (de esta obra)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17917</link>
+            <description>
+                <p>Buenos Aires AGEA 2004
+                    . 274 p.
+                    , Con guiones de Leonardo Wadel y dibujos de Emilio Cortinas y Alberto Breccia;
+                    y con guiones de Alberto Ongaro y dibujos de autores varios, respectivamente. |
+                    Vito Nervio, un joven policía que cuando se dirige a su boda recuerda que olvidó
+                    los anillos en el Departamento de Policía. Regresa a su oficina, se entera de
+                    que un peligroso criminal anda suelto y, en lugar de retornar a la iglesia,
+                    inicia la investigación del caso de los cadáveres resucitados.
+                    Misterix era un científico inglés altruista y arrojado, que había inventado un
+                    traje a prueba de balas en cuyo cinturón se incluía una pila atómica con la que,
+                    sólo variando la intensidad, podía desmayar o pulverizar a los enemigos que
+                    enfrentaba.
+                    21 cm..
+                    950782359X (de la colección) | 9507823832 (de esta obra)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17917">Place
+                        Hold on <i>Vito Nervio / Misterix</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17917</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El loco Chávez </title>
+            <dc:identifier>ISBN 978950782359X (de la colección) | 9789507823700 (de esta obra)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17918</link>
+            <description>
+                <p>By Trillo, Carlos.
+                    Buenos Aires AGEA 2004
+                    . 273 p.
+                    , Hugo, el “Loco Chávez”, es un periodista que comenzó siendo corresponsal en el
+                    extranjero. Desde 1976, la tira se sitúa en Buenos Aires y “el Loco” comienza a
+                    trabajar en la redacción de un diario porteño.
+                    21 cm..
+                    978950782359X (de la colección) | 9789507823700 (de esta obra)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17918">Place
+                        Hold on <i>El loco Chávez</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17918</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El loco Chávez </title>
+            <dc:identifier>ISBN 9789879085387</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17919</link>
+            <description>
+                <p>By Trillo, Carlos.
+                    Buenos Aires Doedytores 2008
+                    . 96 p.
+                    , Hugo, el “Loco Chávez”, es un periodista que comenzó siendo corresponsal en el
+                    extranjero. Desde 1976, la tira se sitúa en Buenos Aires y “el Loco” comienza a
+                    trabajar en la redacción de un diario porteño.
+                    24 cm..
+                    9789879085387</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17919">Place
+                        Hold on <i>El loco Chávez</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17919</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Lo que dicen tus ojos </title>
+            <dc:identifier>ISBN 9789870416548</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17900</link>
+            <description>
+                <p>By Bonelli, Florencia.
+                    Buenos Aires Suma de Letras 2013
+                    . 336 p.
+
+                    24 cm..
+                    9789870416548</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17900">Place
+                        Hold on <i>Lo que dicen tus ojos</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17900</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Geografía económica </title>
+            <dc:identifier>ISBN 950534029X</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17904</link>
+            <description>
+                <p>By Perincioli de Rampa, H..
+                    Buenos Aires A-Z editora 1995
+                    . 340 p.
+
+                    24 cm..
+                    950534029X</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17904">Place
+                        Hold on <i>Geografía económica</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17904</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El género de la patria </title>
+            <dc:identifier>ISBN 9789500015325</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17893</link>
+            <description>
+                <p>Ciudad Autónoma de Buenos Aires Ministerio de Educación de la Nación 2021
+                    . 136 p.
+
+                    28 cm..
+                    9789500015325</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17893">Place
+                        Hold on <i>El género de la patria</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17893</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Cuando nadie nos nombre </title>
+            <dc:identifier>ISBN 9789876707138</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17878</link>
+            <description>
+                <p>By Suosa, Luciana.
+                    Ciudad Autónoma de Buenos Aires Tusquets Editores 2022
+                    . 168 p.
+                    , Breve biografía de la autora en la solapa
+                    21 cm..
+                    9789876707138</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17878">Place
+                        Hold on <i>Cuando nadie nos nombre</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17878</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caídos del mapa IV </title>
+            <dc:identifier>ISBN 9505040083</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17871</link>
+            <description>
+                <p>By Falconi, María Inés.
+                    Buenos Aires Quipu 2005
+                    . 388 p.
+
+                    17 cm..
+                    9505040083</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17871">Place
+                        Hold on <i>Caídos del mapa IV</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17871</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caídos del mapa III </title>
+            <dc:identifier>ISBN 9509187933</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17872</link>
+            <description>
+                <p>By Falconi, María Inés.
+                    Buenos Aires Quipu 2005
+                    . 328 p.
+
+                    17 cm..
+                    9509187933</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17872">Place
+                        Hold on <i>Caídos del mapa III</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17872</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caídos del mapa II </title>
+            <dc:identifier>ISBN 9509187941</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17873</link>
+            <description>
+                <p>By Falconi, María Inés.
+                    Buenos Aires Quipu 2005
+                    . 296 p.
+
+                    17 cm..
+                    9509187941</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17873">Place
+                        Hold on <i>Caídos del mapa II</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17873</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caídos del mapa I </title>
+            <dc:identifier>ISBN 9509187968</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17874</link>
+            <description>
+                <p>By Falconi, María Inés.
+                    Buenos Aires Quipu 2005
+                    . 296 p.
+                    , Ilustración de tapa Caloi
+                    17 cm..
+                    9509187968</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17874">Place
+                        Hold on <i>Caídos del mapa I</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17874</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caídos del mapa IX </title>
+            <dc:identifier>ISBN 9789875040489</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17875</link>
+            <description>
+                <p>By Falconi, María Inés.
+                    Buenos Aires Quipu 2010
+                    . 272 p.
+                    , Ilustración de tapa Vik Arrieta
+                    21 cm..
+                    9789875040489</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17875">Place
+                        Hold on <i>Caídos del mapa IX</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17875</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caídos del mapa VIII </title>
+            <dc:identifier>ISBN 9789875040250</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17876</link>
+            <description>
+                <p>By Falconi, María Inés.
+                    Buenos Aires Quipu 2009
+                    . 256 p.
+                    , Ilustración de tapa Vik Arwen
+                    21 cm..
+                    9789875040250</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17876">Place
+                        Hold on <i>Caídos del mapa VIII</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17876</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El grito </title>
+            <dc:identifier>ISBN 9789876848374</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17867</link>
+            <description>
+                <p>By Siemens, Sandra.
+                    Ciudad Autónoma de Buenos Aires Colihue 2014
+                    . 120 p.
+                    , Colecciones del Aula. Edición especial para el Ministerio de Educación de la
+                    Nación
+                    18 cm..
+                    9789876848374</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17867">Place
+                        Hold on <i>El grito</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17867</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Maten al mensajero </title>
+            <dc:identifier>ISBN 9500715236</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17860</link>
+            <description>
+                <p>By Salomone, Franco.
+                    Buenos Aires Sudamericana 1999
+                    . 319
+
+                    23 cm..
+                    9500715236</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17860">Place
+                        Hold on <i>Maten al mensajero</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17860</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Cuentos para niños de 8 a 108 IV </title>
+            <dc:identifier>ISBN 9870519237 (10) | 9789870519232 (13)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17858</link>
+            <description>
+                <p>By Aquino, Pancho.
+                    Buenos Aires El autor 2006
+                    . 128 p.
+
+                    20 cm..
+                    9870519237 (10) | 9789870519232 (13)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17858">Place
+                        Hold on <i>Cuentos para niños de 8 a 108 IV</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17858</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caudillos federales </title>
+            <dc:identifier>ISBN 9789870427094 | 9789870427087 (Obra Completa)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17855</link>
+            <description>
+                <p>By O'Donnell, Pacho.
+                    Buenos Aires Aguilar | ATE 2012
+                    . 120 p.
+                    , Asociación de Trabajadores del Estado ATE
+                    24 cm..
+                    9789870427094 | 9789870427087 (Obra Completa)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17855">Place
+                        Hold on <i>Caudillos federales </i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17855</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Caudillos federales </title>
+            <dc:identifier>ISBN 9789870427100 (v2) | 9789870427087 (Obra Completa)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17856</link>
+            <description>
+                <p>By O'Donnell, Pacho.
+                    Buenos Aires Aguilar | ATE 2012
+                    . 176 p.
+                    , Asociación de Trabajadores del Estado ATE
+                    24 cm..
+                    9789870427100 (v2) | 9789870427087 (Obra Completa)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17856">Place
+                        Hold on <i>Caudillos federales </i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17856</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>El camino de un hombre </title>
+            <dc:identifier>ISBN 9508600470</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17857</link>
+            <description>
+                <p>By Dubrovsky, Meyer.
+                    Buenos Aires Instituto Movilizador de Fondos Cooperativos 1996
+                    . 59 p.
+
+                    20 cm..
+                    9508600470</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17857">Place
+                        Hold on <i>El camino de un hombre</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17857</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>La enciclopedia de las Chicas Perla </title>
+            <dc:identifier>ISBN 978950411635</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17851</link>
+            <description>
+                <p>By Pescetti, Luis María.
+                    Buenos Aires Alfaguara 2009
+                    . 176 p.
+
+                    20 cm..
+                    978950411635</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17851">Place
+                        Hold on <i>La enciclopedia de las Chicas Perla</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17851</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Las visitas </title>
+            <dc:identifier>ISBN 9789870401100</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17852</link>
+            <description>
+                <p>By Schujer, Silvia.
+                    Buenos Aires Alfaguara juvenil | Santillana 2011
+                    . 96 p.
+
+                    20 cm..
+                    9789870401100</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17852">Place
+                        Hold on <i>Las visitas</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17852</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>A leer con Pancho </title>
+            <dc:identifier>ISBN 9871122977</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17853</link>
+            <description>
+                <p>By Aquino, Pancho.
+                    Buenos Aires Ediba 2005
+                    . 64 p.
+
+                    21 cm..
+                    9871122977</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17853">Place
+                        Hold on <i>A leer con Pancho</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17853</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Los duendes de Moisés ville - Cómico </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17854</link>
+            <description>
+                <p>By Germano, Antonio.
+                    Santa Fe Universidad Nacional del Litoral 1997
+                    . 127 p.
+
+                    20 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17854">Place
+                        Hold on <i>Los duendes de Moisés ville - Cómico</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17854</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Alas rotas </title>
+            <dc:identifier>ISBN 987916458X</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17846</link>
+            <description>
+                <p>By Thwaites Rey, Mabel.
+                    Buenos Aires Temas 2001
+                    . 422 p.
+
+                    23 cm..
+                    987916458X</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17846">Place
+                        Hold on <i>Alas rotas</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17846</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Nuestra Señora de la Noche </title>
+            <dc:identifier>ISBN 950051012X</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17842</link>
+            <description>
+                <p>By Denevi, Marco.
+                    Buenos Aires Corregidor 1999
+                    . 237 p.
+
+                    20 cm..
+                    950051012X</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17842">Place
+                        Hold on <i>Nuestra Señora de la Noche</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17842</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Exilios </title>
+            <dc:identifier>ISBN 9507863974</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17844</link>
+            <description>
+                <p>Buenos Aires Biblios 2003
+                    . 191 p.
+
+                    23 cm..
+                    9507863974</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17844">Place
+                        Hold on <i>Exilios</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17844</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Historia de la Argentina : tomo I &quot;Los orígenes&quot; </title>
+            <dc:identifier>ISBN 9789505634767 (Tomo I) | 9789505634781 (Obra Completa)</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17838</link>
+            <description>
+                <p>By Galasso, Norberto.
+                    Ciudad Autónoma de Buenos Aires Colihue 2012
+                    . 286 p.
+                    , Edición especial para la Asociación de Trabajadores de Estado | Indice al
+                    final de la obra.
+                    22 cm.
+                    9789505634767 (Tomo I) | 9789505634781 (Obra Completa)</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17838">Place
+                        Hold on <i>Historia de la Argentina : tomo I "Los orígenes"</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17838</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Los pasajeros del jardín </title>
+            <dc:identifier>ISBN 8447309843</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17829</link>
+            <description>
+                <p>By Bullrich, Silvina.
+                    Barcelona RBA Editores | Planeta 1995
+                    . 127 p.
+
+                    21 cm..
+                    8447309843</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17829">Place
+                        Hold on <i>Los pasajeros del jardín</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17829</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>De Buenos Aires y su gente </title>
+            <dc:identifier>ISBN 9502506189</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17830</link>
+            <description>
+                <p>By Sebreli, Juan José.
+                    Buenos Aires Centro Editor de América Latina 1982
+                    . 149 p.
+
+                    18 cm..
+                    9502506189</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17830">Place
+                        Hold on <i>De Buenos Aires y su gente</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17830</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Palabra de mi esperanza </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17836</link>
+            <description>
+                <p>By Linari, Adrián.
+                    Rosario Ediciones Culturales Santafesinas 2000
+                    . 91 p.
+                    , Premio Provincial de Ensayo &quot;Juan Alvarez&quot; 1999 - Ensayo sobre la
+                    obra literaria de José Pedroni
+                    21 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17836">Place
+                        Hold on <i>Palabra de mi esperanza</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17836</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Nuestro planeta, Natacha </title>
+            <dc:identifier>ISBN 9789870422792</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17837</link>
+            <description>
+                <p>By Pescetti, Luis.
+                    Buenos Aires Alfaguara 2012
+                    . 336 p.
+
+                    20 cm..
+                    9789870422792</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17837">Place
+                        Hold on <i>Nuestro planeta, Natacha</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17837</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Las fuerzas extrañas </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17821</link>
+            <description>
+                <p>By Lugones, Leopoldo.
+                    Buenos Aires Ministerio de Educación Ciencia y Tecnología de la Nación 2007
+                    . 133 p.
+                    , Índice:
+                    La fuerza Omega...pág. 7 - La lluvia de fuego...pág. 21 - Un fenómeno
+                    inexplicable...pág. 35 - El milagro de San Wilfrido...pág. 45 - El
+                    escuerzo...pág. 55 - La metamúsica...pág. 61 - El origen del Diluvio...pág. 75 -
+                    Los caballos de Abdera...pág. 83 - Viola Acherontia...pág. 93 - Yzur...pág. 101
+                    - La estatua de sal...pág. 113 - El Psychon...pág. 121 | Programa de
+                    Mejoramiento del Sistema Educativo PROMSE
+                    21 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17821">Place
+                        Hold on <i>Las fuerzas extrañas</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17821</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Hombres y mujeres de la colonia </title>
+            <dc:identifier>ISBN 9500707802</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17823</link>
+            <description>
+                <p>By Garavaglia, Juan Carlos.
+                    Buenos Aires Sudamericana 2007
+                    . 288 p.
+
+                    21 cm..
+                    9500707802</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17823">Place
+                        Hold on <i>Hombres y mujeres de la colonia</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17823</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>17 cuentos fantásticos argentinos </title>
+            <dc:identifier>ISBN 9502104110</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17824</link>
+            <description>
+                <p>Buenos Aires Plus Ultra 1999
+                    . 188 p.
+                    , Sorrentino, Fernando 1942- (Compilador), Lugones, Leopoldo, 1874-1938,
+                    Daireaux, Godofredo, Güiraldes, Ricardo, 1886-1927, Dabove, Santiago, Barbieri,
+                    Vicente, Ocampo, Silvina, 1903-1993, Lusarreta, Pilar de, Anderson Imbert,
+                    Enrique, Mujica Lainez, Manuel, 1910-1984, Bioy Casares, Adolfo, 1914-1999,
+                    Peroncini, Horacio, Ghiano, Juan Carlos, 1920-1990, Di Benedetto, Antonio
+                    1922-1986, Calny, Eugenia, Pesante, Edgardo A., Barbieri, Enrique | Plan Social
+                    Educativo
+                    20 cm..
+                    9502104110</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17824">Place
+                        Hold on <i>17 cuentos fantásticos argentinos</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17824</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Volver al país de los araucanos </title>
+            <dc:identifier>ISBN 9500707586</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17825</link>
+            <description>
+                <p>By Mandrini, Raúl.
+                    Buenos Aires Sudamericana 2007
+                    . 256 p.
+
+                    21 cm..
+                    9500707586</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17825">Place
+                        Hold on <i>Volver al país de los araucanos</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17825</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Tiempo de colonia </title>
+            <dc:identifier>ISBN </dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17815</link>
+            <description>
+                <p>By O'Connor, Doly.
+                    Buenos Aires [s/n] 2023
+                    . 251 p.
+
+                    21 cm..</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17815">Place
+                        Hold on <i>Tiempo de colonia</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17815</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Cuentos selectos </title>
+            <dc:identifier>ISBN 9789500511117</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17816</link>
+            <description>
+                <p>By Denevi, Marco.
+                    Buenos Aires Corregidor 2007
+                    . 400 p.
+                    , Programa de Mejoramiento del Sistema Educativo PROMSE
+                    20 cm..
+                    9789500511117</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17816">Place
+                        Hold on <i>Cuentos selectos</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17816</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>La vida blanca </title>
+            <dc:identifier>ISBN 9789500517010</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17818</link>
+            <description>
+                <p>By Mallea, Eduardo.
+                    Buenos Aires Corregidor 2007
+                    . 112 p.
+                    , Programa de Mejoramiento del Sistema Educativo PROMSE
+                    20 cm..
+                    9789500517010</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17818">Place
+                        Hold on <i>La vida blanca</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17818</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Una excursión a los indios ranqueles </title>
+            <dc:identifier>ISBN 9789500529078</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17811</link>
+            <description>
+                <p>By Mansilla, Lucio V..
+                    Buenos Aires Emecé 2007
+                    . 288 p.
+                    , Programa de Mejoramiento del Sistema Educativo
+                    22 cm..
+                    9789500529078</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17811">Place
+                        Hold on <i>Una excursión a los indios ranqueles</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17811</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Una excursión a los indios ranqueles </title>
+            <dc:identifier>ISBN 9789500429085</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17812</link>
+            <description>
+                <p>By Mansilla, Lucio V..
+                    Buenos Aires Emecé 2007
+                    . 272 p.
+                    , Programa de Mejoramiento del Sistema Educativo
+                    22 cm..
+                    9789500429085</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17812">Place
+                        Hold on <i>Una excursión a los indios ranqueles</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17812</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Los mundos que habitamos </title>
+            <dc:identifier>ISBN 9789878915258</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17813</link>
+            <description>
+                <p>Ciudad Autónoma de Buenos Aires Ministerio de Cultura de la Presidencia de la
+                    Nación 2021
+                    . 252 p.
+
+                    23 cm..
+                    9789878915258</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17813">Place
+                        Hold on <i>Los mundos que habitamos</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17813</guid>
+        </item>
+        <atom:link rel="search" type="application/opensearchdescription+xml"
+            href="http://0426.bepe.ar/cgi-bin/koha/opac-search.pl?&amp;sort_by=&amp;format=opensearchdescription" />
+        <opensearch:Query role="request" searchTerms="" startPage="" />
+        <item>
+            <title>Memoria Verde </title>
+            <dc:identifier>ISBN 9500706628</dc:identifier>
+            <link>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17800</link>
+            <description>
+                <p>By Brailovsky, Antonio Elio.
+                    Buenas Aires Sudamericana 1998
+                    . 375 p.
+
+                    22 cm..
+                    9500706628</p>
+                <p>
+                    <a href="http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=17800">Place
+                        Hold on <i>Memoria Verde</i></a>
+                </p>
+            </description>
+            <guid>http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=17800</guid>
+        </item>
+    </channel>
+</rss>

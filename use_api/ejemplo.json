@@ -1,0 +1,17 @@
+{
+  "title": "Historia del deporte en Malabrigo ",
+  "dc:identifier": "ISBN ",
+  "link": "http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15131",
+  "guid": "http://0426.bepe.ar/cgi-bin/koha/opac-detail.pl?biblionumber=15131",
+  "opac_reserve": {
+    "estado": "Place Hold on",
+    "href": "http://0426.bepe.ar/cgi-bin/koha/opac-reserve.pl?biblionumber=15131",
+    "titulo": "Historia del deporte en Malabrigo"
+  },
+  "autor": "Centis  Alfredo W..",
+  "lugar_de_origen": "Malabrigo Publik-Arte 2017",
+  "paginas": "57",
+  "colaborador": "Escuela 6113 \"Federico Carlos Sigel\"",
+  "medida": "21cm",
+  "codigos": []
+}

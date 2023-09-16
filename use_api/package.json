@@ -2,11 +2,11 @@
   "name": "fetch_xml_to_json",
   "version": "1.0.0",
   "description": "",
-  "main": "index.mjs",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node index.mjs"
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",

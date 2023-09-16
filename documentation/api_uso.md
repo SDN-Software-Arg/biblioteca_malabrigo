@@ -39,9 +39,14 @@ tipos aplicados en el formato:
         idx: pb%252Cwrdl    -> ubicacion del editor
         idx: nb             -> isbn
         idx: bc             -> codigo de barra
-    operadores:
+    operadores logicos:
         or: %2520or%2520
         and: %2520and%2520
+    operadores de retorno:
+        offset: number      -> indica desde donde comienza a retornar
+        count: number       -> indicar la cantidad que tiene que retornar, por defecto es 20
+    format:
+        rss2                -> el unico que nos dejan usar
 
 
 By Amaro Cattarozzi.
