@@ -1,0 +1,97 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 50px;
+    border: solid 1px black;
+}
+
+.up-section{
+    width: 100%;
+}
+
+.botton-section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 0px 10px 0px;
+}
+
+.span-content{
+    background: transparent;
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.span-item{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 0px;
+}
+
+img{
+    height: 25px;
+}
+
+.hidden{
+    display: none;
+}
+
+.h500{
+    height: 500px;
+}
+
+.view-md{
+    display: none;
+}
+
+@media (max-width: 768px) {
+    nav{
+        width: 50%;
+        align-items: start;
+    }
+
+    .botton-section{
+        width: auto;
+        min-width: 50px;
+    }
+
+    .up-section{
+        width: auto;
+        min-width: 50px;
+    }
+
+    .view-md{
+        display: block;
+    }
+
+    .span-item{
+        align-items: center;
+        justify-content: start;
+        padding-left:20px;
+    }
+
+    .span-item img{
+        width: 25px;
+        padding-right: 10px;
+    }
+
+    .span-item p{
+        padding: 0px;
+    }
+}
+
+.w50pxImp{
+    width: 50px;
+}

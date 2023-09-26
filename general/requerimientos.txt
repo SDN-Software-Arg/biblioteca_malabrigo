@@ -1,0 +1,29 @@
+imagenes:
+	dos imagenes representativas de la blioteca, las dos en formato lateral
+	imagen que represente algo de aprender o es para la main (inicio)
+
+actividades:
+	las que tenga, tiene que tener nombre y una descripcion corta si es que es necesaria para entender
+
+Servicios:
+	un texto resumido de los servicios que brinda la biblioteca
+	
+Integrantes de la biblioteca:
+	tiene que tener nombre y apellido
+	rol (si es que tiene alguno especifico)
+	foto
+	
+mision, vision y valores:
+	mision y vision, un texto que represente estos
+	valores tiene que ser itens puntuales con un breve descripcion
+
+Mensaje para insentivar a ser socios:
+	un mensaje corto y claro de los beneficios que tiene de ser socio o un mensaje que quieran que lea
+
+datos en general:
+	horarios
+	correo
+	numero de telefono
+	direccion
+	facebook
+	instagram

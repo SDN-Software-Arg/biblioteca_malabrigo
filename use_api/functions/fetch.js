@@ -15,3 +15,14 @@ export async function fetchForUrlXmlToString(url) {
     throw error;
   }
 }
+
+export async function fetchForUrlToHTML(url) {
+  return await fetch(url)
+    .then((response) => response.text())
+    .then((html) => {
+      return html;
+    })
+    .catch((error) => {
+      console.error("Error al cargar el archivo:", error);
+    });
+}

@@ -3,7 +3,7 @@ const head = document.querySelector("head")
 const body = document.querySelector("body")
 
 const renderProyect = {
-  folderName: "ejemplo",
+  folderName: "barra_de_navegacion",
   html: "index", //default values, recomient no edit
   css: "style", //default values, recomient no edit
   js: "index", //default values, recomient no edit

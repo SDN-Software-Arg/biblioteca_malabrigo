@@ -1,6 +1,18 @@
 import { DOMParser } from "xmldom";
 import xml2js from "xml2js";
 
+export function textToHTML(text) {
+  try {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, "text/html");
+
+    return doc;
+  } catch (error) {
+    console.error("Error al xmlText to doc:", error);
+    throw error;
+  }
+}
+
 export function xmlTextToDoc(xmlText) {
   try {
     const parser = new DOMParser();
